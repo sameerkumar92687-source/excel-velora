@@ -39,7 +39,7 @@ It provides interactive visualizations and key metrics to support **data-driven 
 
 ---
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sales-dashboard-excel.git
+## How to Access
+👉 [Download the Excel Dashboard](./VELORA_SALES_DASHBOARD.xlsx)  
+
+Open the file in **Excel 2019 Pro Plus** or later to explore interactive charts and slicers.
