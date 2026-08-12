@@ -6,6 +6,11 @@ It provides interactive visualizations and key metrics to support **data-driven 
 
 ---
 
+### Dashboard Preview
+![Dashboard Preview](./DASHBOARD.png)
+
+---
+
 ## Features
 - **Key Metrics**: Revenue, Profit, Cost, Average Sales, Top Product
 - **Trend Analysis**: Profit over Time (monthly line chart)
